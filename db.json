@@ -1,0 +1,162 @@
+{
+  "recent_matches": [
+    {
+      "date": "2024-07-15",
+      "home_team": "Greenfield United FC",
+      "away_team": "City Rivals FC",
+      "score": "2 - 1"
+    },
+    {
+      "date": "2024-07-10",
+      "home_team": "Greenfield United FC",
+      "away_team": "Ocean View SC",
+      "score": "3 - 2"
+    },
+    {
+      "date": "2024-07-05",
+      "home_team": "Mountain Eagles FC",
+      "away_team": "Greenfield United FC",
+      "score": "1 - 1"
+    },
+    {
+      "date": "2024-07-01",
+      "home_team": "Sunset Wanderers FC",
+      "away_team": "Greenfield United FC",
+      "score": "0 - 2"
+    },
+    {
+      "date": "2024-06-25",
+      "home_team": "Greenfield United FC",
+      "away_team": "Lakeview Rangers FC",
+      "score": "4 - 3"
+    }
+  ],
+  "upcoming_matches": [
+    {
+      "date": "2024-08-01",
+      "home_team": "Greenfield United FC",
+      "away_team": "Valley United FC"
+    },
+    {
+      "date": "2024-08-05",
+      "home_team": "Highland Warriors FC",
+      "away_team": "Greenfield United FC"
+    },
+    {
+      "date": "2024-08-10",
+      "home_team": "Greenfield United FC",
+      "away_team": "Riverfront FC"
+    },
+    {
+      "date": "2024-08-15",
+      "home_team": "Forest Rangers FC",
+      "away_team": "Greenfield United FC"
+    },
+    {
+      "date": "2024-08-20",
+      "home_team": "Greenfield United FC",
+      "away_team": "Hillside FC"
+    }
+  ],
+  "player_stats": [
+    {
+      "name": "John Doe",
+      "position": "Forward",
+      "origin": "Belgium",
+      "matches": 25,
+      "goals": 15,
+      "yellow_cards": 3,
+      "red_cards": 1
+    },
+    {
+      "name": "Jan Smith",
+      "position": "Midfielder",
+      "origin": "Germany",
+      "matches": 30,
+      "goals": 8,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "name": "Michael Johnson",
+      "position": "Defender",
+      "origin": "Belgium",
+      "matches": 28,
+      "goals": 2,
+      "yellow_cards": 5,
+      "red_cards": 2
+    },
+    {
+      "name": "Emil Davis",
+      "position": "Goalkeeper",
+      "origin": "Germany",
+      "matches": 32,
+      "goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "name": "Chris Brown",
+      "position": "Forward",
+      "origin": "France",
+      "matches": 22,
+      "goals": 12,
+      "yellow_cards": 2,
+      "red_cards": 1
+    },
+    {
+      "name": "Pat Taylor",
+      "position": "Midfielder",
+      "origin": "Spain",
+      "matches": 27,
+      "goals": 9,
+      "yellow_cards": 5,
+      "red_cards": 1
+    },
+    {
+      "name": "Taylor Wilson",
+      "position": "Defender",
+      "origin": "Netherlands",
+      "matches": 31,
+      "goals": 3,
+      "yellow_cards": 6,
+      "red_cards": 3
+    },
+    {
+      "name": "Jordan Lee",
+      "position": "Defender",
+      "origin": "Italy",
+      "matches": 29,
+      "goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "name": "Morg White",
+      "position": "Forward",
+      "origin": "Belgium",
+      "matches": 24,
+      "goals": 14,
+      "yellow_cards": 2,
+      "red_cards": 2
+    },
+    {
+      "name": "Cane Adams",
+      "position": "Midfielder",
+      "origin": "Belgium",
+      "matches": 26,
+      "goals": 7,
+      "yellow_cards": 3,
+      "red_cards": 1
+    },
+    {
+      "name": "Riley Clark",
+      "position": "Defender",
+      "origin": "Sweden",
+      "matches": 29,
+      "goals": 1,
+      "yellow_cards": 4,
+      "red_cards": 1
+    }
+  ]
+}
